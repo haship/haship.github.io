@@ -35,4 +35,4 @@ permalink: /education/
   * マインドストームを使ったライントレースロボット
   * ライントレース＋自動ブレーキ
 * 高大連携
-  * arduino講習
+  * [arduino講習]({{ site.baseurl}}/seminar/arduino/)
