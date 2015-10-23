@@ -3,7 +3,7 @@ layout: page
 title: 講義資料
 permalink: /education/
 ---
-
+----
 ## 2015年度
 ----
 
@@ -20,6 +20,7 @@ permalink: /education/
 *  創作ゼミナール2 (3年後期 金曜1限)
 *  卒業研究 (4年通年 月～金曜1限)
 
+----
 ## その他の資料
 ----
 
