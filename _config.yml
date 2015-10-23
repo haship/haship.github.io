@@ -58,9 +58,13 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+# markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:title/
+
+kramdown: 
+  input: GFM
 
 redcarpet:
   extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
