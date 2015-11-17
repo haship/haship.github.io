@@ -36,3 +36,4 @@ permalink: /education/
   * ライントレース＋自動ブレーキ
 * 高大連携
   * [arduino講習]({{ site.baseurl}}/seminar/arduino/)
+* [ETロボコン]({{ site.baseurl}}/etrobo/)
