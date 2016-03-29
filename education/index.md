@@ -53,6 +53,6 @@ permalink: /education/
   * ライントレース＋自動ブレーキ
 * 高大連携
   * [arduino講習]({{ site.baseurl}}/seminar/arduino/)
-  * [青森山田高校 2年生向け ロボット講習]({{ site.baseurl}}/seminar/yh2/)
-  * [青森山田高校 3年生向け ロボット講習]({{ site.baseurl}}/seminar/yh3/)
+  * [青森山田高校 2年生向け ロボット講習]({{ site.baseurl}}/education/yh2/)
+  * [青森山田高校 3年生向け ロボット講習]({{ site.baseurl}}/education/yh3/)
 * [ETロボコン]({{ site.baseurl}}/etrobo/)
