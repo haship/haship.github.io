@@ -11,7 +11,7 @@ permalink: /education/
 ----
 
 *  情報リテラシー  (1年前期 2コマ担当)
-*  [ソフトウェア情報学基礎ゼミナールA]({{ site.baseurl }}/education/seminar1a/) (1年前期)
+*  [ソフトウェア情報学基礎ゼミナールA](https://github.com/haship/haship.github.io/wiki) (1年前期)
 *  [ソフトウェア情報学基礎ゼミナールB]({{ site.baseurl }}/education/seminar1b/) (1年後期)
 *  エレクトロニクス (1年前期)
 *  プログラミングワークショップ1 (2年前期 週2コマ)
