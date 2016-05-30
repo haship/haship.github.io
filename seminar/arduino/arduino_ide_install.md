@@ -77,3 +77,5 @@ title: arduino ide install
 
  ![](img/arduino_ide_install/15.png)
  ----
+ ![](img/arduino_ide_install/16.png)
+ ----
