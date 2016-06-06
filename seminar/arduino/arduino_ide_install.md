@@ -1,3 +1,7 @@
+---
+layout: page
+title: arduino講座
+---
 
 ## arduino IDE のインストール
 
