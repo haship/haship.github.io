@@ -78,6 +78,7 @@ title: arduino IDEのインストール
  ![](../img/arduino_ide_install/15.png)
  ----
  ![](../img/arduino_ide_install/16.png)
- ----
+
+----
 
 [\[目次に戻る\]](../) [\[次に進む\]](../02/)
