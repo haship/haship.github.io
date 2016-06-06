@@ -6,10 +6,11 @@ title: arduino IDEのインストール
 ## arduino IDE のインストール
 
 1. https://www.arduino.cc/ にアクセスして、Downloadをクリックします
-
+   
   ![](../img/arduino_ide_install/01.png)
+   
   ----
-
+   
 1. Download the Arduino Software のページで、Windows Installer をクリックします
 
   ![](../img/arduino_ide_install/02.png)
