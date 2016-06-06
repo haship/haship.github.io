@@ -18,6 +18,7 @@ title: arduino IDEのインストール
   ----
  
 1. ダウンロードしたInstallerをダブルクリックして起動します
+
 1. 旧バージョンのIDEが既にインストールされている場合は、アンインストールしますので、OKを押します
   ![](../img/arduino_ide_install/04.png)
   ----
