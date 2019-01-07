@@ -1,0 +1,6 @@
+
+@startuml
+entity "employee" {
+
+}
+@enduml
